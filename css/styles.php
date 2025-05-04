@@ -16,7 +16,7 @@ if (!isset($_COOKIE["theme"])) {
         if ($theme === "blanc"){
             echo "color: var(--rich-black);";
         } else {
-            echo "color: var(--white-background);";
+            echo "color: var(--prussian-blue);";
         }
     ?>
 }
